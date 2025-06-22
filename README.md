@@ -25,4 +25,6 @@ Or for Git users:
 
 cd C:/Users/YourName/path_to_your_folder
 
+./main.sh
+
 **Please replace YourName and path_to_your_folder with your actual name and folder path.**
