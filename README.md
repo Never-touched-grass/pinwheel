@@ -17,7 +17,7 @@ For people who have Git for Windows or WSL, go to the terminal which you are usi
 
 Please do the following in your WSL terminal:
 
-cd /mnt/c/Users/<YourName>/path_to_your_folder
+cd /mnt/c/Users/YourName/path_to_your_folder
 
 ./main.sh
 
