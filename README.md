@@ -23,6 +23,6 @@ cd /mnt/c/Users/<YourName>/path_to_your_folder
 
 Or for Git users:
 
-cd C:/Users/<YourName>/path_to_your_folder
+cd C:/Users/YourName/path_to_your_folder
 
-**Please replace <YourName> and path_to_your_folder with your actual name and folder path.**
+**Please replace YourName and path_to_your_folder with your actual name and folder path.**
