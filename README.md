@@ -12,10 +12,13 @@ Thank you for reading.
 Sorry for non-Linux users, but since I haven't added one coded in ps1, this is not runnable via Powershell.
 For people who have Git for Windows or WSL, go to the terminal which you are using (mentioned above).
 Please do the following in your WSL terminal:
-cd /mnt/c/Users/<YourName>/path_to_your_folder
-./main.sh
-Or for Git users:
-cd C:/Users/<YourName>/path_to_your_folder
 
+cd /mnt/c/Users/<YourName>/path_to_your_folder
+
+./main.sh
+
+Or for Git users:
+
+cd C:/Users/<YourName>/path_to_your_folder
 
 **Please replace <YourName> and path_to_your_folder with your actual name and folder path.**
