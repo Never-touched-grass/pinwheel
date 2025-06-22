@@ -31,7 +31,11 @@ cd C:/Users/YourName/path_to_your_folder
 
 ## Purpose of files/folders in this repo
 bin: used for the purpose of users not having to install Rust and Python
+
 expr: math utilities
+
 main.sh: main shell controller
+
 signup.sh: signup. Will have a backend later.
+
 scripter.sh: interpret() function that interprets a line the same way the shell does.
