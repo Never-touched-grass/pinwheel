@@ -36,7 +36,7 @@ expr: math utilities
 
 main.sh: main shell controller
 
-signup.sh: signup. Will have a backend later.
+signup.sh: signup. Now uses an SQLite backend.
 
 scripter.sh: interpret() function that interprets a line the same way the shell does.
 
