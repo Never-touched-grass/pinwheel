@@ -39,3 +39,5 @@ main.sh: main shell controller
 signup.sh: signup. Will have a backend later.
 
 scripter.sh: interpret() function that interprets a line the same way the shell does.
+
+users.db: stores users and their filesystems. Currently does not store variables
